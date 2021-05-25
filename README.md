@@ -9,11 +9,11 @@ I enjoy creating things.
 
 
 <pre>
-- 🥕  Interested in _Next.js_, _Serverless_, DDD, TDD and _Design Patterns_
+- 🥕  Interested in Next.js, Serverless, DDD, TDD and Design Patterns.
 
-- 💬  Knowledgeble in things such as guitars, music theory and .
+- 💬  Knowledgeble in things such as guitars, music theory and philosophy.
 
 - 📫  Contact: carlosbusinessinquiries@outlook.com
 
-- 🎮  Fun fact: I'm a Garage Band _aficionado_.
+- 🎮  Fun fact: I'm a Garage Band aficionado.
 </pre>
