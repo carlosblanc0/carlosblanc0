@@ -1,16 +1,17 @@
-### Hi there 👋
+# ⚡ Carlos A. Blanco
 
-<!--
-**carloswhite/carloswhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer** | [@carloshwite](https://carlosablanco.com).
 
-Here are some ideas to get you started:
+[![YouTube Badge](https://img.shields.io/badge/youtube--%2300EBEB?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCxuo2I31Bv3Bdgs5tnoEQlg)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-a-blanco01)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy creating things.
+
+
+- ⚡ Interested in _Next.js_, _Serverless_, DDD, TDD and _Design Patterns_
+
+- 💬 Knowledgeble in things such as guitars, music theory and .
+
+- 📫 Contact: carlosbusinessinquiries@outlook.com
+
+- 🎮 Fun fact: I'm a Garage Band _aficionado_.
