@@ -11,8 +11,6 @@ I enjoy creating things.
 <pre>
 - 🥕  Interested in Next.js, Serverless, DDD, TDD and Design Patterns.
 
-- 💬  Knowledgeble in things such as guitars, music theory and philosophy.
-
 - 📫  Contact: carlosbusinessinquiries@outlook.com
 
 - 🎮  Fun fact: I'm a Garage Band aficionado.
